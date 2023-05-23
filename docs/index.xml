@@ -6,7 +6,29 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://junoaplus.github.io/teamWebPage/linux/new-post-1/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/linux/new-post-1/</guid>
+      <description>Linux 개요
+Linux란? Linux Kernel 기반의 오픈 소스 Unix계열(Unix-like) 운영체제들을 의미한다. • Linux, Linux kernel • Unix, Unix-like • 운영체제들(family)
+유닉스 계열(Unix-like) : &amp;lsquo;유닉스와 비슷하면서 유닉스가 아니다&amp;rsquo;는 뜻으로 유닉스(UNIX)와는 별개의 용어이다.</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>https://junoaplus.github.io/teamWebPage/linux/new-post-2/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/linux/new-post-2/</guid>
+      <description>OS Kernel
+• 운영체제의 핵심, 하드웨어 자원을 관리하고 프로그램을 실행하게 한다.
+커널의 기능 커널은 다음과 같은 4가지 기능을 수행 • 메모리 관리: 메모리가 어디에서 무엇을 저장하는 데 얼마나 사용되는지를 추적 • 프로세스 관리: 어느 프로세스가 중앙 처리 장치(CPU)를 언제 얼마나 오랫동안 사용할지를 결정 • 장치 드라이버: 하드웨어와 프로세스 사이에서 중재자/인터프리터의 역할을 수행 • 시스템 호출 및 보안: 프로세스의 서비스 요청을 수신</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://junoaplus.github.io/teamWebPage/blog/2021/08/01/categories-post/</link>
