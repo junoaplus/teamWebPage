@@ -1,5 +1,5 @@
 ---
-title: "Post1"
+title: "LINUX"
 date: 2023-05-22
 menu:
   main:

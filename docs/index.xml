@@ -8,6 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CONTAINER</title>
+      <link>https://junoaplus.github.io/teamWebPage/container/new-post-1/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/container/new-post-1/</guid>
+      <description>CONTAINER 개요  컨테이너란? 호스트 OS 위에 여러 개의 격리된 환경을 만들어서 각각의 환경에서 독립적으로 프로세스와 파일 시스템 등을 실행하는 기술이다.  컨테이너 이미지란? 컨테이너 이미지는 도커와 같은 컨테이너 가상화 기술에서 사용되는 실행 가능한 소프트웨어 패키지이다. 이 패키지는 애플리케이션을 실행하는 데 필요한 모든 소프트웨어를 포함하며, 애플리케이션의 코드, 라이브러리, 실행 환경, 시스템 도구 등이 포함될 수 있다. 컨테이너 이미지는 일반적으로 컨테이너 레지스트리에서 관리되며, 필요에 따라 다운로드하거나 업로드하여 사용할 수 있다. 컨테이너 이미지를 기반으로 컨테이너를 생성하고 실행하면, 해당 컨테이너는 이미지에 포함된 애플리케이션을 실행하게 됨.</description>
+    </item>
+    
+    <item>
+      <title>CONTAINER COMMAND</title>
+      <link>https://junoaplus.github.io/teamWebPage/container/new-post-2/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/container/new-post-2/</guid>
+      <description>CONTAINER 명령어   docker run: 컨테이너 생성과 실행을 위해 사용되는 명령어
+-&amp;gt; 예시: docker run [옵션] 이미지명 [명령어]
+  docker ps: 현재 실행 중인 컨테이너 목록 보기
+-&amp;gt; 예시: docker ps [옵션]
+  docker stop: 실행 중인 컨테이너를 정지
+-&amp;gt; 예시: docker stop 컨테이너ID
+  docker start: 정지된 컨테이너를 시작 -&amp;gt; 예시: docker start 컨테이너ID
+  docker restart: 실행 중인 컨테이너를 재시작
+-&amp;gt; 예시: docker restart 컨테이너ID</description>
+    </item>
+    
+    <item>
       <title>Post1</title>
       <link>https://junoaplus.github.io/teamWebPage/git/new-post-1/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
@@ -39,7 +65,7 @@ Git이란?
     </item>
     
     <item>
-      <title>Post1</title>
+      <title>LINUX</title>
       <link>https://junoaplus.github.io/teamWebPage/linux/new-post-1/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
@@ -50,7 +76,7 @@ Linux란? Linux Kernel 기반의 오픈 소스 Unix계열(Unix-like) 운영체�
     </item>
     
     <item>
-      <title>Post2</title>
+      <title>OS Kernel</title>
       <link>https://junoaplus.github.io/teamWebPage/linux/new-post-2/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
