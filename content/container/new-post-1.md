@@ -3,7 +3,7 @@ title: "POST1"
 date: 2023-05-24
 menu:
   main:
-    parent: "menu.container" 
+    parent: "menu.CONTAINER" 
     weight: 1
 ---
 
