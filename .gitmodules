@@ -5,3 +5,6 @@
    path = public
    url = git@github.com:junoaplus/junoaplus.github.io.git
    branch = main
+[submodule "public/public/themes/hugo-universal-theme"]
+	path = public/public/themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme.git
