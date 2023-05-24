@@ -6,7 +6,36 @@
     <description>Recent content in Web on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://junoaplus.github.io/teamWebPage/web/new-post-1/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/web/new-post-1/</guid>
+      <description>Web 개요 인터넷(Internet) • 컴퓨터로 연결하여 TCP/IP(Transmission Control Protocol/Internet Protocol)라는 통신 프로토콜을 이용해 정보를 주고받는 컴퓨터 네트워크
+• 네트워크와 네트워크를 연결해 주는 네트워크
+월드 와이드 웹(World Wide Web, WWW, W3)
+• 인터넷에 연결된 컴퓨터를 통해 사람들이 정보를 공유할 수 있는 전 세계적인 정보 공간(위키백과) • 인터넷에서 HTTP 프로토콜, 하이퍼텍스트, HTML형식 등을 사용하여 그림과 문자를 교환하는 전송방식
+• HTTP(HyperText Transfer Protocol) : 클라이언트와 서버 사이에 이루어지는 요청/응답(request/response) 프로토콜
+• 하이퍼텍스트(Hypertext) : 참조(하이퍼링크)를 통해 독자가 한 문서에서 다른 문서로 즉시 접근할 수 있는 텍스트, 하이퍼링크를 따라 다른 문서로 이동, HTML 문서라고도 함</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>https://junoaplus.github.io/teamWebPage/web/new-post-2/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/web/new-post-2/</guid>
+      <description>Web 브라우저 • 하이퍼 텍스트 문서(HTML 문서)를 렌더링하여 GUI로 보여주는 웹 클라이언트 프로그램
+• 주요기능
+• 웹서버에게 주어진 URL의 웹페이지(하이퍼 텍스트)를 요청
+• 웹페이지를 다운로드 받아서 그래픽으로 렌더
+Web Page 구성 요소 • 문서의 내용과 구조를 제공하는 HTML이 기본 페이지이며 여기에 모양을 변형하는 CSS와 동작을 제공하는 JavaScript가 추가됨
+• HTML만으로 이루어진 페이지는 존재하나 CSS나 JavaScript만으로 구성된 페이지는 존재할 수 없음
+• HTML : 내용(Content) • 웹 페이지에 표시할 내용들을 포함</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://junoaplus.github.io/teamWebPage/web/categories-post/</link>

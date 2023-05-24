@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://junoaplus.github.io/teamWebPage/container/new-post-1/</loc>
-    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/container/</loc>
-    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junoaplus.github.io/teamWebPage/container/new-post-2/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/git/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/container/new-post-1/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/git/new-post-1/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/container/new-post-2/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/git/new-post-2/</loc>
@@ -23,13 +23,22 @@
     <loc>https://junoaplus.github.io/teamWebPage/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junoaplus.github.io/teamWebPage/linux/new-post-1/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/linux/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/linux/new-post-1/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/web/new-post-1/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/linux/new-post-2/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/web/new-post-2/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junoaplus.github.io/teamWebPage/web/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/authors/</loc>
@@ -81,9 +90,6 @@
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://junoaplus.github.io/teamWebPage/web/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://junoaplus.github.io/teamWebPage/authors/jane-doe/</loc>
