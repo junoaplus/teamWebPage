@@ -17,4 +17,3 @@ Linux Kernel 기반의 오픈 소스 Unix계열(Unix-like) 운영체제들을 �
 
 유닉스 계열(Unix-like) : '유닉스와 비슷하면서 유닉스가 아니다'는 뜻으로
 유닉스(UNIX)와는 별개의 용어이다.
-
