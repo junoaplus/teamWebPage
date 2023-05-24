@@ -8,6 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>GIT1</title>
+      <link>https://junoaplus.github.io/teamWebPage/git/new-post-1/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junoaplus.github.io/teamWebPage/git/new-post-1/</guid>
+      <description>Git 개요 Git이란?
+분산 버전 관리 시스템
+• 2005년 리누스 토발즈가 개발
+• 라이선스 : GPL V2.0
+• 개발 배경
+• 2002년부터 리눅스 버전 관리시스템으로 BitKeeper (BitMover사의 상용 SW, 2016년 오픈소스, 개발 중단) 사용
+• BitMover사가 리눅스 개발자들이 무료로 사용할 수 있도록 하였으나, 앤드루 트리젤이 비슷한 소스 풀러를 만들면서 리눅스 개발자들에 대한 무료 사용을 철회
+• 리누스 토발즈가 다른 오픈소스 버전관리 시스템을 사용하려 하였으나 당시 원하는 기능을 만족하는 SW가 없어서 직접 만들게 됨</description>
+    </item>
+    
+    <item>
       <title>GIT2</title>
       <link>https://junoaplus.github.io/teamWebPage/git/new-post-2/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
@@ -27,22 +43,6 @@
       
       <guid>https://junoaplus.github.io/teamWebPage/container/new-post-1/</guid>
       <description>CONTAINER 개요  컨테이너란? 호스트 OS 위에 여러 개의 격리된 환경을 만들어서 각각의 환경에서 독립적으로 프로세스와 파일 시스템 등을 실행하는 기술이다.  컨테이너 이미지란? 컨테이너 이미지는 도커와 같은 컨테이너 가상화 기술에서 사용되는 실행 가능한 소프트웨어 패키지이다. 이 패키지는 애플리케이션을 실행하는 데 필요한 모든 소프트웨어를 포함하며, 애플리케이션의 코드, 라이브러리, 실행 환경, 시스템 도구 등이 포함될 수 있다. 컨테이너 이미지는 일반적으로 컨테이너 레지스트리에서 관리되며, 필요에 따라 다운로드하거나 업로드하여 사용할 수 있다. 컨테이너 이미지를 기반으로 컨테이너를 생성하고 실행하면, 해당 컨테이너는 이미지에 포함된 애플리케이션을 실행하게 됨.</description>
-    </item>
-    
-    <item>
-      <title>Post1</title>
-      <link>https://junoaplus.github.io/teamWebPage/git/new-post-1/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://junoaplus.github.io/teamWebPage/git/new-post-1/</guid>
-      <description>Git 개요 Git이란?
-분산 버전 관리 시스템
-• 2005년 리누스 토발즈가 개발
-• 라이선스 : GPL V2.0
-• 개발 배경
-• 2002년부터 리눅스 버전 관리시스템으로 BitKeeper (BitMover사의 상용 SW, 2016년 오픈소스, 개발 중단) 사용
-• BitMover사가 리눅스 개발자들이 무료로 사용할 수 있도록 하였으나, 앤드루 트리젤이 비슷한 소스 풀러를 만들면서 리눅스 개발자들에 대한 무료 사용을 철회
-• 리누스 토발즈가 다른 오픈소스 버전관리 시스템을 사용하려 하였으나 당시 원하는 기능을 만족하는 SW가 없어서 직접 만들게 됨</description>
     </item>
     
     <item>
