@@ -43,7 +43,7 @@ pluralizelisttitles = false
     weight     = 3
 
     [[menu.main]]
-    name       = "git"
+    name       = "GIT"
     identifier = "menu.git"
     url        = "/git/"
     weight     = 4
