@@ -8,35 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junoaplus.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GIT1</title>
-      <link>https://junoaplus.github.io/teamWebPage/git/new-post-1/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://junoaplus.github.io/teamWebPage/git/new-post-1/</guid>
-      <description>Git 개요 Git이란?
-분산 버전 관리 시스템
-• 2005년 리누스 토발즈가 개발
-• 라이선스 : GPL V2.0
-• 개발 배경
-• 2002년부터 리눅스 버전 관리시스템으로 BitKeeper (BitMover사의 상용 SW, 2016년 오픈소스, 개발 중단) 사용
-• BitMover사가 리눅스 개발자들이 무료로 사용할 수 있도록 하였으나, 앤드루 트리젤이 비슷한 소스 풀러를 만들면서 리눅스 개발자들에 대한 무료 사용을 철회
-• 리누스 토발즈가 다른 오픈소스 버전관리 시스템을 사용하려 하였으나 당시 원하는 기능을 만족하는 SW가 없어서 직접 만들게 됨</description>
-    </item>
-    
-    <item>
-      <title>GIT2</title>
-      <link>https://junoaplus.github.io/teamWebPage/git/new-post-2/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://junoaplus.github.io/teamWebPage/git/new-post-2/</guid>
-      <description>git의 목표 • 빠른 속도
-• 단순한 구조
-• 비선형적인 개발(수천 개의 동시 다발적인 브랜치)
-• 완벽한 분산
-• Linux 커널 같은 대형 프로젝트에도 유용할 것(속도나 데이터 크기 면에서) </description>
-    </item>
-    
-    <item>
       <title>Post1</title>
       <link>https://junoaplus.github.io/teamWebPage/container/new-post-1/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
