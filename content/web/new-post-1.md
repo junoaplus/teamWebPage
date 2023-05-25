@@ -4,7 +4,8 @@ date: 2023-05-22
 menu:
   main:
     parent: "menu.web" 
-    identifier: unique_post_1_1
+    identifier: "post7"
+    title: "Post1"
     weight: 1      
 ---
 

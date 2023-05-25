@@ -4,6 +4,8 @@ date: 2023-05-24
 menu:
   main:
     parent: "menu.git" 
+    identifier: "post4"
+    title: "Post2"
     weight: 2      
 ---
 

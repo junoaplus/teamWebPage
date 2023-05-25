@@ -4,7 +4,8 @@ date: 2023-05-22
 menu:
   main:
     parent: "menu.linux" 
-    identifier: unique_post_2
+    identifier: "post6"
+    title: "Post2"
     weight: 2      
 ---
 

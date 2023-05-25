@@ -3,9 +3,12 @@ title: "Post1"
 date: 2023-05-24
 menu:
   main:
-    parent: "menu.container" 
+    parent: "menu.container"
+    identifier: "post1"
+    title: "Post1"
     weight: 1
 ---
+
 
 
 # CONTAINER 개요

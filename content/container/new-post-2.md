@@ -3,8 +3,10 @@ title: "Post2"
 date: 2023-05-24
 menu:
   main:
-    parent: "menu.container" 
-    weight: 2
+    parent: "menu.container"
+    identifier: "post2"
+    title: "Post2"
+    weight: 1
 ---
 
 
