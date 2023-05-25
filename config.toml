@@ -24,29 +24,29 @@ pluralizelisttitles = true
 
 # Main menu
 [[menu.main]]
-    name       = "Home"
+    name       = "HOME"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
 
+[[menu.main]]
+    name       = "GIT"
+    identifier = "menu.git"
+    url        = "/git/"
+    weight     = 2
 
 [[menu.main]]
-    name       = "Linux"
+    name       = "LINUX"
     identifier = "menu.linux"
     url        = "/linux/"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "CONTAINER"
     identifier = "menu.CONTAINER"
     url        = "/CONTAINER/"
-    weight     = 3
-
-    [[menu.main]]
-    name       = "GIT"
-    identifier = "menu.git"
-    url        = "/git/"
     weight     = 4
+
 
     [[menu.main]]
     name       = "WEB"
@@ -62,8 +62,8 @@ pluralizelisttitles = true
     weight     = 6
 
 [[menu.main]]
-    identifier = "contact"
     name       = "Contact"
+    identifier = "contact"
     url        = "/contact/"
     weight     = 7
 
@@ -104,7 +104,7 @@ pluralizelisttitles = true
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["LINUX", "CONTAINER", "GIT", "WEB"]
+    mainSections = ["HOME", "LINUX", "CONTAINER", "GIT", "WEB"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
