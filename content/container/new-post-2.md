@@ -7,6 +7,9 @@ menu:
     identifier: "post2"
     title: "Post2"
     weight: 1
+    parent: "menu.CONTAINER" 
+    weight: 2
+
 ---
 
 

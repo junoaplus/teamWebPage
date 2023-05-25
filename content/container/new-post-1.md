@@ -6,6 +6,7 @@ menu:
     parent: "menu.container"
     identifier: "post1"
     title: "Post1"
+    parent: "menu.CONTAINER" 
     weight: 1
 ---
 

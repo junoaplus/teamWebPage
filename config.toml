@@ -38,8 +38,8 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "CONTAINER"
-    identifier = "menu.container"
-    url        = "/container/"
+    identifier = "menu.CONTAINER"
+    url        = "/CONTAINER/"
     weight     = 3
 
     [[menu.main]]
@@ -104,7 +104,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
+    mainSections = ["LINUX", "CONTAINER", "GIT", "WEB"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
