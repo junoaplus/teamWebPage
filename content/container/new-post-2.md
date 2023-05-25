@@ -1,5 +1,5 @@
 ---
-title: "POST2"
+title: "Post2"
 date: 2023-05-24
 menu:
   main:
